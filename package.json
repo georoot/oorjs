@@ -1,0 +1,24 @@
+{
+  "name": "oorjs",
+  "version": "0.0.1",
+  "description": "Environment variable manager for development",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georoot/oorjs.git"
+  },
+  "author": "Rahul Bhola <me@rahulbhola.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georoot/oorjs/issues"
+  },
+  "homepage": "https://github.com/georoot/oorjs#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "inquirer": "^1.2.3",
+    "jsonfile": "^2.4.0"
+  }
+}
